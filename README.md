@@ -1,2 +1,2 @@
 # Testing
- Repository for testingi GitHub
+ Repository for testing GitHub
