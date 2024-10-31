@@ -83,3 +83,5 @@ GetVTable(Interface, FilePattern, Recurse := false, ToolTipNo := false) {
       ToolTip , , , ToolTipNo
    return VTable
 }
+
+; ---------------
